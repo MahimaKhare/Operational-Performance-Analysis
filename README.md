@@ -1,4 +1,4 @@
-# 🛒 Vendor Performance Analysis  
+# 🛒 Operational Performance Analysis  
 
 This project is a **real-world Data Analyst portfolio project** where we analyze vendor performance using **SQL, Python, and Power BI**. The goal is to simulate an end-to-end data workflow — from data ingestion into a database, through exploratory analysis and reporting, to building a business-ready dashboard.  
 
