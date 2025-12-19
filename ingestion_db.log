@@ -1,0 +1,94 @@
+2025-08-24 19:08:03,670 - INFO - 🚀 Starting ingestion for begin_inventory.csv into table begin_inventory
+2025-08-24 19:08:03,693 - ERROR - ❌ Failed ingestion for begin_inventory.csv: relation "begin_inventory" does not exist
+
+2025-08-24 19:08:03,694 - INFO - 🚀 Starting ingestion for end_inventory.csv into table end_inventory
+2025-08-24 19:08:03,695 - ERROR - ❌ Failed ingestion for end_inventory.csv: relation "end_inventory" does not exist
+
+2025-08-24 19:08:03,695 - INFO - 🚀 Starting ingestion for purchases.csv into table purchases
+2025-08-24 19:08:03,696 - ERROR - ❌ Failed ingestion for purchases.csv: relation "purchases" does not exist
+
+2025-08-24 19:08:03,696 - INFO - 🚀 Starting ingestion for purchase_prices.csv into table purchase_prices
+2025-08-24 19:08:03,698 - ERROR - ❌ Failed ingestion for purchase_prices.csv: relation "purchase_prices" does not exist
+
+2025-08-24 19:08:03,699 - INFO - 🚀 Starting ingestion for sales.csv into table sales
+2025-08-24 19:08:03,700 - ERROR - ❌ Failed ingestion for sales.csv: relation "sales" does not exist
+
+2025-08-24 19:08:03,701 - INFO - 🚀 Starting ingestion for vendor_invoice.csv into table vendor_invoice
+2025-08-24 19:08:03,703 - ERROR - ❌ Failed ingestion for vendor_invoice.csv: relation "vendor_invoice" does not exist
+
+2025-08-24 19:08:03,703 - INFO - -------------------------------- Ingestion Complete ------------------------------
+2025-08-24 19:08:03,703 - INFO - Total time taken: 0.0 minutes
+2025-08-24 19:10:06,151 - INFO - 🚀 Starting ingestion for begin_inventory.csv into table begin_inventory
+2025-08-24 19:10:06,293 - ERROR - ❌ Failed ingestion for begin_inventory.csv: relation "begin_inventory" does not exist
+
+2025-08-24 19:10:06,293 - INFO - 🚀 Starting ingestion for end_inventory.csv into table end_inventory
+2025-08-24 19:10:06,327 - ERROR - ❌ Failed ingestion for end_inventory.csv: relation "end_inventory" does not exist
+
+2025-08-24 19:10:06,329 - INFO - 🚀 Starting ingestion for purchases.csv into table purchases
+2025-08-24 19:10:06,372 - ERROR - ❌ Failed ingestion for purchases.csv: relation "purchases" does not exist
+
+2025-08-24 19:10:06,372 - INFO - 🚀 Starting ingestion for purchase_prices.csv into table purchase_prices
+2025-08-24 19:10:06,452 - ERROR - ❌ Failed ingestion for purchase_prices.csv: relation "purchase_prices" does not exist
+
+2025-08-24 19:10:06,454 - INFO - 🚀 Starting ingestion for sales.csv into table sales
+2025-08-24 19:10:06,495 - ERROR - ❌ Failed ingestion for sales.csv: relation "sales" does not exist
+
+2025-08-24 19:10:06,497 - INFO - 🚀 Starting ingestion for vendor_invoice.csv into table vendor_invoice
+2025-08-24 19:10:06,595 - ERROR - ❌ Failed ingestion for vendor_invoice.csv: relation "vendor_invoice" does not exist
+
+2025-08-24 19:10:06,595 - INFO - -------------------------------- Ingestion Complete ------------------------------
+2025-08-24 19:10:06,597 - INFO - Total time taken: 0.01 minutes
+2025-08-24 19:10:20,942 - INFO - 🚀 Starting ingestion for begin_inventory.csv into table begin_inventory
+2025-08-24 19:10:20,960 - ERROR - ❌ Failed ingestion for begin_inventory.csv: relation "begin_inventory" does not exist
+
+2025-08-24 19:10:20,961 - INFO - 🚀 Starting ingestion for end_inventory.csv into table end_inventory
+2025-08-24 19:10:20,962 - ERROR - ❌ Failed ingestion for end_inventory.csv: relation "end_inventory" does not exist
+
+2025-08-24 19:10:20,962 - INFO - 🚀 Starting ingestion for purchases.csv into table purchases
+2025-08-24 19:10:20,964 - ERROR - ❌ Failed ingestion for purchases.csv: relation "purchases" does not exist
+
+2025-08-24 19:10:20,964 - INFO - 🚀 Starting ingestion for purchase_prices.csv into table purchase_prices
+2025-08-24 19:10:20,966 - ERROR - ❌ Failed ingestion for purchase_prices.csv: relation "purchase_prices" does not exist
+
+2025-08-24 19:10:20,967 - INFO - 🚀 Starting ingestion for sales.csv into table sales
+2025-08-24 19:10:20,969 - ERROR - ❌ Failed ingestion for sales.csv: relation "sales" does not exist
+
+2025-08-24 19:10:20,969 - INFO - 🚀 Starting ingestion for vendor_invoice.csv into table vendor_invoice
+2025-08-24 19:10:20,971 - ERROR - ❌ Failed ingestion for vendor_invoice.csv: relation "vendor_invoice" does not exist
+
+2025-08-24 19:10:20,972 - INFO - -------------------------------- Ingestion Complete ------------------------------
+2025-08-24 19:10:20,972 - INFO - Total time taken: 0.0 minutes
+2025-08-24 19:10:57,779 - INFO - Starting ingestion for begin_inventory.csv into table begin_inventory
+2025-08-24 19:10:57,824 - ERROR - Failed ingestion for begin_inventory.csv: relation "begin_inventory" does not exist
+
+2025-08-24 19:10:57,824 - INFO - Starting ingestion for end_inventory.csv into table end_inventory
+2025-08-24 19:10:57,826 - ERROR - Failed ingestion for end_inventory.csv: relation "end_inventory" does not exist
+
+2025-08-24 19:10:57,826 - INFO - Starting ingestion for purchases.csv into table purchases
+2025-08-24 19:10:57,828 - ERROR - Failed ingestion for purchases.csv: relation "purchases" does not exist
+
+2025-08-24 19:10:57,828 - INFO - Starting ingestion for purchase_prices.csv into table purchase_prices
+2025-08-24 19:10:57,836 - ERROR - Failed ingestion for purchase_prices.csv: relation "purchase_prices" does not exist
+
+2025-08-24 19:10:57,839 - INFO - Starting ingestion for sales.csv into table sales
+2025-08-24 19:10:57,845 - ERROR - Failed ingestion for sales.csv: relation "sales" does not exist
+
+2025-08-24 19:10:57,848 - INFO - Starting ingestion for vendor_invoice.csv into table vendor_invoice
+2025-08-24 19:10:57,850 - ERROR - Failed ingestion for vendor_invoice.csv: relation "vendor_invoice" does not exist
+
+2025-08-24 19:10:57,850 - INFO - -------------------------------- Ingestion Complete ------------------------------
+2025-08-24 19:10:57,850 - INFO - Total time taken: 0.0 minutes
+2025-08-24 19:12:19,694 - INFO - Starting ingestion for begin_inventory.csv into table begin_inventory
+2025-08-24 19:12:22,640 - INFO - Successfully ingested begin_inventory.csv into begin_inventory
+2025-08-24 19:12:22,640 - INFO - Starting ingestion for end_inventory.csv into table end_inventory
+2025-08-24 19:12:26,048 - INFO - Successfully ingested end_inventory.csv into end_inventory
+2025-08-24 19:12:26,048 - INFO - Starting ingestion for purchases.csv into table purchases
+2025-08-24 19:13:15,209 - INFO - Successfully ingested purchases.csv into purchases
+2025-08-24 19:13:15,220 - INFO - Starting ingestion for purchase_prices.csv into table purchase_prices
+2025-08-24 19:13:15,878 - INFO - Successfully ingested purchase_prices.csv into purchase_prices
+2025-08-24 19:13:15,880 - INFO - Starting ingestion for sales.csv into table sales
+2025-08-24 19:17:43,010 - INFO - Successfully ingested sales.csv into sales
+2025-08-24 19:17:43,025 - INFO - Starting ingestion for vendor_invoice.csv into table vendor_invoice
+2025-08-24 19:17:46,050 - INFO - Successfully ingested vendor_invoice.csv into vendor_invoice
+2025-08-24 19:17:46,055 - INFO - -------------------------------- Ingestion Complete ------------------------------
+2025-08-24 19:17:46,055 - INFO - Total time taken: 5.44 minutes
